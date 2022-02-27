@@ -6,7 +6,7 @@ Accompanying repository to the deep learning project that I completed for [PH010
 
 ## Presentation
 
-Check out the [written report](https://physics.sh/galaxyclass), where I walk you through the entire workflow for this project, including exploratory data analysis, image preprocessing and finally building a convolutional neural network (CNN) with TensorFlow and the Keras API.
+See the [written report](https://physics.sh/galaxyclass), where I walk you through the entire workflow for this project, including exploratory data analysis, image preprocessing and finally building a convolutional neural network (CNN) with TensorFlow and the Keras API.
 
 ## Installation
  Download the source code
